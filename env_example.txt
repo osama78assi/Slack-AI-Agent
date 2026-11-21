@@ -1,0 +1,20 @@
+# Database Connection String
+DATABASE_CONNECTION_STRING=
+
+# Slack Configuration
+SLACK_BOT_TOKEN=
+SLACK_APP_TOKEN=
+SLACK_SIGNING_SECRET=
+SLACK_PRIVATE_CHANNEL_ID=
+
+# OpenAI Configuration
+OPENAI_API_KEY=
+OPENAI_BASE_URL=
+
+# Company Information (for AI analysis)
+COMPANY_NAME=
+COMPANY_PRODUCT=
+
+# Application Configuration
+PORT=
+NODE_ENV=
